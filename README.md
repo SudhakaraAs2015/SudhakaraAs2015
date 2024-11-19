@@ -1,8 +1,10 @@
 <h1 align="center">Howdy 👋, I'm Sudhakara H N</h1>
 <h3 align="center">A Passionate Programmer / Developer From India</h3>
 <p align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=sudhakaraas2015&label=Profile%20views&color=0e75b6&style=flat" alt="sudhakaraas2015" />
 </p>
+
 - 🔭 I’m currently working on **Frontend Technologies**
 - 🌱 I’m currently learning **Django, Next.js**
 - 👯 I’m looking to collaborate on **Python Full Stack Frontend and Backend**
@@ -13,6 +15,7 @@
 - 💼 Know about my experiences: [Portfolio](https://sudha-portfolio-ecru.vercel.app/)
 - 📄Here is My resume:[Resume](https://drive.google.com/file/d/1m6kOCKKPUsKwldUg8hwGYpdXJxUUM8Jl/view?usp=drivesdk)
 - ⚡ Fun Fact About Me: **Swimmer 🏊🏻‍♂️, Sportsman 🏏, Film Maker 🎬**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,6 +74,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
   </a> 
 </p>
+
 
 <div style="background-color: black; padding: 20px;">
   <h3 align="left" style="color: white;">Most Used Languages:</h3>
