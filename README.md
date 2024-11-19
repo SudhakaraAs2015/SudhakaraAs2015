@@ -1,10 +1,8 @@
 <h1 align="center">Howdy 👋, I'm Sudhakara H N</h1>
 <h3 align="center">A Passionate Programmer / Developer From India</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sudhakaraas2015&label=Profile%20views&color=0e75b6&style=flat" alt="sudhakaraas2015" />
 </p>
-
 - 🔭 I’m currently working on **Frontend Technologies**
 - 🌱 I’m currently learning **Django, Next.js**
 - 👯 I’m looking to collaborate on **Python Full Stack Frontend and Backend**
