@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sudhakara-h-n-as/" target="blank">
+  <a href="https://www.linkedin.com/in/Sudhakarahn/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhakara h n" height="30" width="40" />
   </a>
   <a href="https://dev.to/@sudhakara_hn_84f731b3d85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@sudhakara_hn_84f731b3d85" height="30" width="40" /></a>
